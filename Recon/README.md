@@ -5,7 +5,7 @@
 - Can automatically find function locations, offsets, and suspicious objects using keywords (You can change the keywords in the code as you wish)
 
 # Source 
-```
+```python
 import subprocess
 import platform
 import sys
