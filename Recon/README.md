@@ -4,6 +4,8 @@
 - Provides all the main information in a convenient form on the terminal
 - Can automatically find function locations, offsets, and suspicious objects using keywords (You can change the keywords in the code as you wish)
 
+The code is generally working, but there's room for improvement. If you'd like to use it, please provide feedback and rate it.
+
 # Source 
 ```python
 import subprocess
@@ -227,5 +229,3 @@ if __name__ == "__main__":
 ```
 
 
-
-The code is generally working, but there's room for improvement. If you'd like to use it, please provide feedback and rate it.
